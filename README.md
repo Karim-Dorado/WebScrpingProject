@@ -6,10 +6,10 @@ Python 3.9 is required to run this utility. Make sure to download and install th
 ### On macOS and Linux: 
 
 **Step 1:** Open your terminal program, and create a directory that will contain all files from this repository.
-`mkdir BooksOnline`
+`mkdir WebScrapingProject`
 
 **Step 2:** Move from your current working directory to the one you have just created. 
-`cd BooksOnline`
+`cd WebScrapingProject`
 
 **Step 3:** Clone this repository.
 
@@ -28,10 +28,10 @@ Python 3.9 is required to run this utility. Make sure to download and install th
 ### On Windows:
 
 **Step 1:** Open your terminal, and create a directory that will contain all files from this repository.
-`mkdir C:\BooksOnline`
+`mkdir C:\WebScrapingProject`
 
 **Step 2:** Move from your current working directory to the one you have just created. 
-`cd C:\BooksOnline` 
+`cd C:\WebScrapingProject` 
 
 **Step 3:** Clone this repository.
 
