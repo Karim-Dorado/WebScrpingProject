@@ -48,7 +48,7 @@ def scrape_book(url):
     else:
         print("Error", r.status_code)
 
-
+        
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Scrape a Book')
     parser.add_argument('--url',
